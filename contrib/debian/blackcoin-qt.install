@@ -1,0 +1,5 @@
+bitcoinikon-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/bitcoinikon-qt.desktop usr/share/applications
+debian/bitcoinikon-qt.protocol usr/share/kde4/services/

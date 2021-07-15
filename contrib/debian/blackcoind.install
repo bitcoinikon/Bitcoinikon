@@ -1,0 +1,2 @@
+debian/bin/bitcoinikond usr/bin
+src/bitcoinikond usr/lib/bitcoinikon

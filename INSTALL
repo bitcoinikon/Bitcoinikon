@@ -1,0 +1,9 @@
+Building Bitcoinikon
+
+See doc/readme-qt.rst for instructions on building Bitcoinikon QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitcoinikon.
+
+See doc/build-*.txt for instructions on building bitcoinikond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitcoinikon.

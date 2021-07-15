@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoinikon
+Comment=Bitcoinikon P2P Cryptocurrency
+Comment[fr]=Bitcoinikon, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitcoinikon, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bitcoinikon-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bitcoinikon;
+Categories=Office;
